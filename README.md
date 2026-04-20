@@ -5,7 +5,7 @@
 
 ---
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=700&size=24&duration=1000&pause=1&repeat=false&color=333333&width=300&lines=Projects+%26+Config" alt="Projects & Config" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=1000&pause=1&repeat=false&color=333333&width=300&lines=Projects+%26+Config" alt="Projects & Config" />
 
 <table border="0">
   <tr>
@@ -29,7 +29,7 @@
 </table>
 
 ---
-### <img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=700&size=24&duration=1000&pause=1&repeat=false&color=333333&width=300&lines=Development" alt="Dev" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=1000&pause=1&repeat=false&color=333333&width=300&lines=Development" alt="Dev" />
 <div>
 <img src="https://img.shields.io/badge/Python-A5D6A7?style=flat-square&logo=python&logoColor=333333" /> 
 <img src="https://img.shields.io/badge/Bash-A5D6A7?style=flat-square&logo=gnu-bash&logoColor=333333" /> 
@@ -37,7 +37,7 @@
 </div>
 
 ---
-### <img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=700&size=24&duration=1000&pause=1&repeat=false&color=333333&width=300&lines=Environment" alt="Env" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=1000&pause=1&repeat=false&color=333333&width=300&lines=Environment" alt="Env" />
 <div>
 <img src="https://img.shields.io/badge/Linux-80CBC4?style=flat-square&logo=linux&logoColor=333333" /> 
 <img src="https://img.shields.io/badge/NixOS-80CBC4?style=flat-square&logo=nixos&logoColor=333333" /> 
