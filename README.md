@@ -1,7 +1,5 @@
-<div align="center">
 
-
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HEI-CS%20Student-A5D6A7?style=flat-square&logoColor=333333" />
   <img src="https://img.shields.io/badge/Focus-DevOps%20%2F%20SysAdmin-80CBC4?style=flat-square&logoColor=333333" />
 </p>
@@ -12,14 +10,14 @@
 
 <table border="0">
   <tr>
-    <td width="50%" align="center" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px;">
+    <td width="300" align="center" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px;">
       <br />
       <a href="https://github.com/isaacabderman-creator/aia-dev_homelab">
         <img src="https://img.shields.io/badge/HOMELAB-5277C3?style=for-the-badge&logo=nixos&logoColor=white" /><br />
         <p><sub><b>Reproducible Server Setup</b></sub></p>
       </a>
     </td>
-    <td width="50%" align="center" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px;">
+    <td width="300" align="center" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px;">
       <br />
       <a href="https://github.com/isaacabderman-creator/neovim-material-you-3-config">
         <img src="https://img.shields.io/badge/DOTFILES-57A143?style=for-the-badge&logo=neovim&logoColor=white" /><br />
@@ -44,8 +42,6 @@
 ![CachyOS](https://img.shields.io/badge/CachyOS-80CBC4?style=flat-square&logo=arch-linux&logoColor=333333)
 ![Git](https://img.shields.io/badge/Git-80CBC4?style=flat-square&logo=git&logoColor=333333)
 ![Neovim](https://img.shields.io/badge/NeoVim-80CBC4?style=flat-square&logo=neovim&logoColor=333333)
-
-</div>
 <!--
 **isaacabderman-creator/isaacabderman-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
