@@ -1,4 +1,5 @@
 <p align="left">
+  <img src="./dev_clouds.svg" width=150 align="right"/>
   <img src="https://img.shields.io/badge/HEI-CS%20Student-A5D6A7?style=flat-square&logoColor=333333" />
   <img src="https://img.shields.io/badge/Focus-DevOps%20%2F%20SysAdmin-80CBC4?style=flat-square&logoColor=333333" />
 </p>
@@ -34,16 +35,19 @@
 <img src="https://img.shields.io/badge/Python-A5D6A7?style=flat-square&logo=python&logoColor=333333" /> 
 <img src="https://img.shields.io/badge/Bash-A5D6A7?style=flat-square&logo=gnu-bash&logoColor=333333" /> 
 <img src="https://img.shields.io/badge/JavaScript-A5D6A7?style=flat-square&logo=javascript&logoColor=333333" />
+<img src="https://img.shields.io/badge/HTML5-A5D6A7?style=flat-square&logo=html5&logoColor=333333" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-A5D6A7?style=flat-square&logo=tailwind-css&logoColor=333333" />
 </div>
 
 ---
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=1000&pause=1&repeat=false&color=333333&width=300&lines=Environment" alt="Env" />
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/Linux-80CBC4?style=flat-square&logo=linux&logoColor=333333" /> 
 <img src="https://img.shields.io/badge/NixOS-80CBC4?style=flat-square&logo=nixos&logoColor=333333" /> 
 <img src="https://img.shields.io/badge/CachyOS-80CBC4?style=flat-square&logo=arch-linux&logoColor=333333" /> 
 <img src="https://img.shields.io/badge/Git-80CBC4?style=flat-square&logo=git&logoColor=333333" /> 
 <img src="https://img.shields.io/badge/NeoVim-80CBC4?style=flat-square&logo=neovim&logoColor=333333" />
+<img src="./dev_out-of-office.svg" width=150 align="left"/>
 <div>
 <!--
 **isaacabderman-creator/isaacabderman-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
