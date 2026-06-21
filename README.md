@@ -20,7 +20,7 @@
     </td>
     <td width="310" align="center" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px;">
       <br />
-      <a href="https://github.com/isaacabderman-creator/neovim-material-you-3-config">
+      <a href="https://github.com/isaacabderman-creator/bubble-gum.nvim.git">
         <img src="https://img.shields.io/badge/DOTFILES-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
         <br />
         <img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=500&size=15&duration=1000&pause=1&repeat=false&color=546E7A&center=true&width=280&lines=BubbleGum+Neovim" alt="Description" />
